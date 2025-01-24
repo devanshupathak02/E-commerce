@@ -37,8 +37,8 @@ let all_product = [
 },
 {
     id: 2,
-    name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    name:"one",
+    category: "men",
     image: prod_2,
     new_price: 20.0,
     old_price :40.0,
@@ -46,7 +46,7 @@ let all_product = [
 },
 {
     id: 3,
-    name:"Stripped sleeve overlap collor peplum hem blouse",
+    name:"Stripped sleeve ",
     category: "women",
     image: prod_3,
     new_price: 60.25,
@@ -83,7 +83,7 @@ let all_product = [
 {
     id: 7,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_7,
     new_price: 7850.0,
     old_price :1280.5,
@@ -92,7 +92,7 @@ let all_product = [
 {
     id: 8,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_8,
     new_price: 54890.0,
     old_price :81470.5,
@@ -101,7 +101,7 @@ let all_product = [
 {
     id: 9,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_9,
     new_price: 1450.0,
     old_price :1180.5,
@@ -110,7 +110,7 @@ let all_product = [
 {
     id: 10,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_10,
     new_price: 14550.0,
     old_price :5480.5,
@@ -119,7 +119,7 @@ let all_product = [
 {
     id: 11,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_11,
     new_price: 47850.0,
     old_price :35480.5,
@@ -137,7 +137,7 @@ let all_product = [
 {
     id: 13,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_13,
     new_price: 98750.0,
     old_price :88760.5,
@@ -146,7 +146,7 @@ let all_product = [
 {
     id: 14,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_14,
     new_price: 87450.0,
     old_price :80.5,
@@ -155,7 +155,7 @@ let all_product = [
 {
     id: 15,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_15,
     new_price: 74550.0,
     old_price :47880.5,
@@ -164,7 +164,7 @@ let all_product = [
 {
     id: 16,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_16,
     new_price: 14550.0,
     old_price :11480.5,
@@ -173,7 +173,7 @@ let all_product = [
 {
     id: 17,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_17,
     new_price: 54750.0,
     old_price :12380.5,
@@ -182,7 +182,7 @@ let all_product = [
 {
     id: 18,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_18,
     new_price: 9850.0,
     old_price :87580.5,
@@ -200,7 +200,7 @@ let all_product = [
 {
     id: 20,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_20,
     new_price: 56250.0,
     old_price :45680.5,
@@ -209,7 +209,7 @@ let all_product = [
 {
     id: 21,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_21,
     new_price: 56250.0,
     old_price :12380.5,
@@ -227,7 +227,7 @@ let all_product = [
 {
     id: 23,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "kid",
     image: prod_23,
     new_price: 500.0,
     old_price :480.5,
@@ -236,7 +236,7 @@ let all_product = [
 {
     id: 24,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_24,
     new_price: 4450.0,
     old_price :4180.5,
@@ -245,7 +245,7 @@ let all_product = [
 {
     id: 25,
     name:"Stripped sleeve overlap collor peplum hem blouse",
-    category: "women",
+    category: "men",
     image: prod_25,
     new_price: 550.0,
     old_price :380.5,
